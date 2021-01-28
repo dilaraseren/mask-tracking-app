@@ -25,6 +25,7 @@ namespace MaskeTakipUygulaması
             
 
             PttManager pttManager = new PttManager(new PersonManager());
+            pttManager.GiveMask(person1);
             pttManager.GiveMask(person2);
             Console.ReadLine();
         }
