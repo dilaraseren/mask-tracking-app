@@ -1,0 +1,9 @@
+C:\Users\SEREN\source\repos\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\SEREN\source\repos\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\SEREN\source\repos\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\SEREN\source\repos\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\SEREN\source\repos\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\SEREN\source\repos\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\SEREN\source\repos\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\SEREN\source\repos\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\SEREN\source\repos\Entities\obj\Debug\netstandard2.0\Entities.pdb

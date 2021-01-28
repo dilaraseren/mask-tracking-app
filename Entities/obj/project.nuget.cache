@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wiLnLenlXruiSryrMdVLiKwZbfVSK6RMREpQkztuVZprV+/wVntHexEPH7hrqwCg9H1SHovZcYF6XzEGxVVgFA==",
+  "success": true,
+  "projectFilePath": "D:\\SEREN\\Desktop\\mask-tracking-app\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SEREN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SEREN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
